@@ -1,0 +1,36 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+venv/Lib/
+venv/Scripts/
+
+# IntelliJ IDEA files
+.idea/
+
+# остальные правила .gitignore ...
+
+# Unit test / coverage reports
+
+.tox/
+.nox/
+#.coverage
+#.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+venv/Lib/
+venv/Scripts/
+
+
+# остальные правила .gitignore ...
+
+# Django, Flask, Scrapy, и другие специфические правила .gitignore ...
+
