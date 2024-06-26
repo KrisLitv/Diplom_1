@@ -46,3 +46,4 @@ class Burger:
         receipt.append(f'Price: {self.get_price()}')
 
         return '\n'.join(receipt)
+
